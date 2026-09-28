@@ -70,12 +70,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mamadox001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=A0AEC0&icon_color=FF0055&border_radius=12" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=mamadox001&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF9F&fire=FF0055&currStreakLabel=00FF9F&borderRadius=12" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamadox001&theme=tokyonight" width="98%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamadox001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=A0AEC0&border_radius=12" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=mamadox001&theme=tokyonight&hide_border=true&background=1a1b27&ring=00FF9F&fire=FF0055&currStreakLabel=00FF9F&borderRadius=6" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mamadox001&theme=tokyonight" width="48%" />
 
 </div>
 
